@@ -1,0 +1,7 @@
+Solar System Simulation
+A fully interactive Solar System Simulation created using Unity. This project showcases realistic planetary movements and stunning visuals, bringing the wonders of our solar system to life.
+
+Features
+Accurate planetary orbits
+Realistic scaling and distances
+Interactive controls for exploring the solar system
